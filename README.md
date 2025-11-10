@@ -3,7 +3,7 @@
   🌱 Currently learning Spring Boot and Full-Stack Development<br/>
   🚀 Building projects like EcoSpark – Sustainable Energy Solutions<br/>
   💬 Ask me about HTML, CSS, JavaScript, Java, C++, or Spring Boot<br/>
-  📫 Reach me at: [your email or LinkedIn link]<br/>
+  📫 Reach me at: [banditasnpt@gmail.com](mailto:banditasnpt@gmail.com)<br/>
 
 
 ### 🌐 Socials
